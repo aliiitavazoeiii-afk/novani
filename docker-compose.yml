@@ -4,4 +4,4 @@ services:
     container_name: novani-web
     restart: unless-stopped
     ports:
-      - "127.0.0.1:8088:80"
+      - "8088:80"
